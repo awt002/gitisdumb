@@ -24,10 +24,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
-<<<<<<< HEAD
                 //im a comment
-=======
->>>>>>> parent of 97db835... second commit
             }
         });
     }
